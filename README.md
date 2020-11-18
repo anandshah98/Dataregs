@@ -3,6 +3,8 @@ It is a simple transaction management utility built using **python** and **PyQT5
 - Allows users the ability to insert, create, delete as well as search transaction details using different filters
 - Requires **Python-3**
 
+**Mouse click or Press enter on startapp.py or startapp.bat to get started**
+
 Additional module required:
 - PyQT5
 
