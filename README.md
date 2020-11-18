@@ -1,5 +1,5 @@
 # Dataregs - Transaction tracker
-It is a simple transaction management utility built using **python** and **PyQT5** for Windows users
+It is a simple transaction management utility built using **Python** and **PyQT5** for Windows users
 - Allows users the ability to insert, create, delete as well as search transaction details using different filters
 - Requires **Python-3**
 
