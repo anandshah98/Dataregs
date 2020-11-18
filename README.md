@@ -26,4 +26,4 @@ Additional module required:
   
   5. Sorting on 'Details' page
   
-  6. Editing of currently non-editable columns
+  6. Allow edit on currently non-editable columns
