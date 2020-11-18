@@ -1,0 +1,17 @@
+***HELP***	
+
+Editable fields:
+'Name' / 'Company' / 'Quantity' / 'Amount' / 'Affiliate'
+
+In order to unselect, click on the column headers of any non-editable item (for eg. 'Unit')
+		
+Information requirements:
+	All fields except Affiliate/Company field have to be filled
+
+Shortcuts:
+	Press Enter: Update details of current row
+	Ctrl + H: Help
+	Ctrl + R: Refresh
+	Ctrl + Q: Quit
+	Ctrl + D: Delete selected row
+	

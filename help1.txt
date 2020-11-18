@@ -1,0 +1,27 @@
+***HELP***
+	
+How to use "Search" function:-
+
+	The form is multifunctional supporting insert as well as search operations. Enter details in the form like as if you would insert details in order to filter out details
+		
+Information requirements:
+	All fields except Affiliate/Company field have to be filled
+
+Additional field description:
+	1) Affiliate :- When the transaction is associated with another person, use this field
+
+	2) Cash flow :- "Transfer" - use in case someone else has completed the transaction in place of you i.e. when the 'Affiliate field' is not empty
+
+	3) Quantity :- ** Field next to Quantity(Unit's field) **
+
+		       Unit(s) specifies one piece\package\item
+		       Kg(s) specifies the weight in Kilograms
+		       Lt(s) specifies quantity in Litres 
+
+Shortcuts:
+	Press Enter: Insert details
+	Ctrl + H: Help
+	Ctrl + R: Reset fields
+	Ctrl + Q: Quit
+	Ctrl + F: Search with the above filled details
+	

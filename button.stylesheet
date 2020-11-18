@@ -1,0 +1,94 @@
+QWidget#table{
+    border-image:url("background.png");
+}
+QPushButton{
+   background: rgba(80, 172, 80, 0.8);
+   border-radius: 5px;
+   border: 2px outset rgba(220, 220, 220, 90);
+   font-size: 25px;
+   font-family: Bahnschrift Semibold;
+   font:bold;
+   color: #001100;
+   padding: 8px;
+   font-variant: normal;
+}
+*[cssClass="deled"]{
+   font-size: 19px;
+   font-family: Bahnschrift;
+   border: 1px raised black;
+}
+QPushButton:hover {
+   color: green;
+   background: white;
+}
+
+QPushButton:pressed {
+   border-style: inset;
+   color: green;
+   background: white;
+}
+
+QPushButton:focus {
+    outline:1px solid white;
+}
+
+QTableWidget{
+    color: white;
+    selection-color: #226622;
+    selection-background-color: #FFFFFF;
+    font-family: Bahnschrift;
+    font-size:20px;
+    background-color:rgba(100,100,100,0.7);
+}
+
+QTableWidget QTableCornerButton::section{
+    background: rgba(50,50,50,0.2);
+
+}
+QHeaderView{
+    background: rgba(100,100,100,0.7);
+}
+QHeaderView::section{
+    background: rgba(50,50,50,0.7);
+    color: white;
+    padding-left: 4px;
+    border: 1px solid #6C6C6C;
+    font-size: 20px;
+    font-family: Bahnschrift;
+}
+
+QTableWidgetItem{
+    font-size: 20px;
+    selection-background-color: #226622;
+    selection-color: #226622;
+}
+
+QLineEdit{
+    border-radius: 5px;
+    font-size:25px;
+    padding: 5px;
+    color:#226622;
+    background-color:white;
+}
+
+QScrollBar{
+    background-color: white;
+    border-radius:7px;
+}
+
+QScrollBar::handle:vertical,QScrollBar::handle:horizontal  {
+    background-color: rgba(80, 172, 80, 0.8);;
+    border-radius:7px;
+}
+QScrollBar::sub-line:vertical, QScrollBar::add-line:vertical {
+    background-color:white;
+    border-radius:7px;
+}
+QScrollBar::add-page:vertical, QScrollBar::sub-page:vertical {
+    background:none;
+    border-radius:7px;
+}
+QScrollBar::up-arrow:vertical, QScrollBar::down-arrow:vertical {
+    background-color:white;
+    border-radius:7px;
+}
