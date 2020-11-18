@@ -1,9 +1,10 @@
 # Dataregs - Transaction tracker
 It is a simple transaction management utility built using **python** and **PyQT5** for Windows users
+- Allows users the ability to insert, create, delete as well as search transaction details using different filters
+- Requires **Python-3**
 
-Software Requirements:
-- Python-3
-- PyQT5
+Additional modules required:
+= PyQT5
 
 ### Additional configuration details:
   1. In order to start the application on startup, create a shortcut of 'startapp.bat' file.
@@ -14,10 +15,15 @@ Software Requirements:
  
 #### To-do list:
   1. Addition of graphs:
-     To understand the transactions in a more statistical manner.
+     - To understand the transactions in a more statistical manner.
+     
   2. Addition of Machine Learning module:
-     The module will help to manage future transactions and evaluate expenditure.
+     - The module will help to manage future transactions and evaluate expenditure.
+     
   3. Currency converter
+ 
   4. Import to CSV/xlsx feature
+  
   5. Sorting on 'Details' page
+  
   6. Editing of currently non-editable columns
