@@ -1,9 +1,9 @@
-# Dataregs ### Transaction tracker
+# Dataregs - Transaction tracker
 It is a simple transaction management utility built using **python** and **PyQT5** for Windows users
 
 Software Requirements:
-Python-3
-PyQT5
+- Python-3
+- PyQT5
 
 ### Additional configuration details:
   1. In order to start the application on startup, create a shortcut of 'startapp.bat' file.
