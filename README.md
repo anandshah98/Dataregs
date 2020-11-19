@@ -11,7 +11,7 @@ Additional module required:
 ### Additional configuration details:
   1. In order to start the application on startup, create a shortcut of 'startapp.bat' file.
   2. Press Windows + R button, type "shell:startup"
-  3. Once the 'Startup' folder opens, copy the shortcut file create earlier into the folder.
+  3. Once the 'Startup' folder opens, copy the shortcut file created earlier into the folder.
   
   [Setup application for startup](https://support.microsoft.com/en-us/windows/add-an-app-to-run-automatically-at-startup-in-windows-10-150da165-dcd9-7230-517b-cf3c295d89dd)
  
